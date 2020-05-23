@@ -37,9 +37,9 @@ enableEmoji = true
     name = "このサイトについて"
     identifier = "about"
     weight = 200
-    url = "/about"
+    url = "/static/about"
 [[menu.main]]
     name = "利用規約"
     identifier = "imprint"
     weight = 200
-    url = "/imprint"
+    url = "/static/imprint"
