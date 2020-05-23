@@ -11,13 +11,8 @@ enableEmoji = true
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description ="理由なきハンコに抗うプロジェクト達"
   #mailchimp = "you can provide a mailchimp-link here"
-
-[params.author]
-  name = "Code for Japan"
-  thumbnail = "/images/author.png"
-  description = "This project is supported by Code for Japan"
 
 [params.index]
   picture = "/images/top.png"
