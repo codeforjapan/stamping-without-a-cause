@@ -30,7 +30,7 @@ publishDir = "docs"
   alertbar = false
 
 [params.social]
-  github = "codeforjapan"
+  github = "codeforjapan/stamping-without-a-cause"
   twitter = "codeforJP"
 
 ## Main Menu
