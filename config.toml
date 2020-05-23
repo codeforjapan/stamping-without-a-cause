@@ -21,7 +21,7 @@ enableEmoji = true
 
 [params.index]
   picture = "/images/top.png"
-  title = "プロジェクトトップ"
+  title = "理由なきハンコ プロジェクト"
   subtitle = "不要不急な押印をなくすための、様々なプロジェクトをまとめています。"
   mdtext = '''
 現在進行中のプロジェクトは、[プロジェクトについて](/projects)をご確認ください。
@@ -37,12 +37,12 @@ enableEmoji = true
     name = "プロジェクト"
     weight = 100
     identifier = "project"
-    url = "/projects"
+    url = "/projects/"
 [[menu.main]]
     name = "プロジェクトについて"
     identifier = "about"
     weight = 200
-    url = "/"
+    url = "/about"
 [[menu.main]]
     name = "利用規約"
     identifier = "imprint"

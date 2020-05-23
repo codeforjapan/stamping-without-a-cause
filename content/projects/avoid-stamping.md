@@ -1,7 +1,11 @@
 ---
 title: "Avoid Stamping"
 date: 2020-05-23T15:50:13+09:00
-draft: true
+publishdate: 2020-05-23T15:50:13+09:00
+lastmod: 2020-05-23T15:50:13+09:00
+tags: ["project"]
+comments: false
+draft: false
 ---
 
 # 押印見直しプロジェクト
