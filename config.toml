@@ -34,12 +34,12 @@ enableEmoji = true
     identifier = "project"
     url = "/projects/"
 [[menu.main]]
-    name = "プロジェクトについて"
+    name = "このサイトについて"
     identifier = "about"
     weight = 200
-    url = "/static/about"
+    url = "/about"
 [[menu.main]]
     name = "利用規約"
     identifier = "imprint"
     weight = 200
-    url = "/static/imprint"
+    url = "/imprint"
