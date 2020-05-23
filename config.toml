@@ -1,3 +1,51 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "理由なきハンコ"
+theme = "mediumish"
+
+summaryLength = 25
+copyright = "Code for Japan - Licensed under CC BY 4.0"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="the clean blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Code for Japan"
+  thumbnail = "/images/author.png"
+  description = "This project is supported by Code for Japan"
+
+[params.index]
+  picture = "/images/top.png"
+  title = "#理由なきハンコ プロジェクト"
+  subtitle = "不要不急な押印をなくすための、様々なプロジェクトをまとめています。"
+  mdtext = '''
+現在進行中のプロジェクトは、[プロジェクトについて](/projects)をご確認ください。
+'''
+  alertbar = false
+
+[params.social]
+  github = "codeforjapan"
+  twitter = "codeforJP"
+
+## Main Menu
+[[menu.main]]
+    name = "プロジェクト"
+    weight = 100
+    identifier = "project"
+    url = "/projects"
+[[menu.main]]
+    name = "プロジェクトについて"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "利用規約"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
