@@ -24,7 +24,7 @@ enableEmoji = true
   title = "理由なきハンコ プロジェクト"
   subtitle = "不要不急な押印をなくすための、様々なプロジェクトをまとめています。"
   mdtext = '''
-現在進行中のプロジェクトは、[プロジェクトについて](/projects)をご確認ください。
+現在進行中のプロジェクトは、[プロジェクト一覧](/projects)をご確認ください。
 '''
   alertbar = false
 
@@ -34,7 +34,7 @@ enableEmoji = true
 
 ## Main Menu
 [[menu.main]]
-    name = "プロジェクト"
+    name = "プロジェクト一覧"
     weight = 100
     identifier = "project"
     url = "/projects/"
@@ -42,7 +42,7 @@ enableEmoji = true
     name = "プロジェクトについて"
     identifier = "about"
     weight = 200
-    url = "/about"
+    url = "/static/about"
 [[menu.main]]
     name = "利用規約"
     identifier = "imprint"
