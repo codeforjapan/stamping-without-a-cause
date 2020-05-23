@@ -1,6 +1,6 @@
 baseURL = "https://stamping.code4japan.org/"
 languageCode = "ja_JP"
-title = "理由なきハンコ"
+title = "#理由なきハンコ"
 theme = "mediumish"
 
 summaryLength = 25
@@ -21,7 +21,7 @@ enableEmoji = true
 
 [params.index]
   picture = "/images/top.png"
-  title = "#理由なきハンコ プロジェクト"
+  title = "プロジェクトトップ"
   subtitle = "不要不急な押印をなくすための、様々なプロジェクトをまとめています。"
   mdtext = '''
 現在進行中のプロジェクトは、[プロジェクトについて](/projects)をご確認ください。
