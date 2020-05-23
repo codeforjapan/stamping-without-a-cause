@@ -1,12 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://http://codeforjapan.github.io/stamping-with-a-cause/"
+languageCode = "ja_JP"
 title = "理由なきハンコ"
 theme = "mediumish"
 
 summaryLength = 25
 copyright = "Code for Japan - Licensed under CC BY 4.0"
 enableEmoji = true
-publishDir = "docs"
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
