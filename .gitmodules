@@ -1,0 +1,3 @@
+[submodule "mediumish"]
+	path = mediumish
+	url = https://github.com/lgaida/mediumish-gohugo-theme
