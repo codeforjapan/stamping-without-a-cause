@@ -1,9 +1,11 @@
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ .Title }}</h1>
-    <p class="lead">
-         {{ .Description }}
-    </p>
-    {{ .Content }}
+    {{ if eq .Kind "section" }}
+        <h1 class="sitetitle">{{ .Title }}</h1>
+        <p class="lead">
+            {{ .Description }}
+        </p>
+        {{ .Content }}
+    {{ end }}
 </div>
