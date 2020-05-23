@@ -2,7 +2,7 @@
 title: "活動記録"
 date: 2020-05-23T19:33:51+09:00
 draft: false
-tags: 理由なきハンコ
+tags: ["理由なきハンコ"]
 ---
 ## このページについて
 「[理由なきハンコ](https://stamping.code4japan.org/)」活動の記録をまとめています。

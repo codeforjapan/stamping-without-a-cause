@@ -34,6 +34,11 @@ enableEmoji = true
     identifier = "project"
     url = "/projects/"
 [[menu.main]]
+    name = "資料集"
+    identifier = "reference"
+    weight = 200
+    url = "/references/"
+[[menu.main]]
     name = "このサイトについて"
     identifier = "about"
     weight = 200
