@@ -1,4 +1,4 @@
-baseURL = "https://stamping.code4japan.org/"
+baseURL = "https://stamping.code4japan.org"
 languageCode = "ja_JP"
 title = "#理由なきハンコ"
 theme = "mediumish"
