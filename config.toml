@@ -39,6 +39,11 @@ enableEmoji = true
     weight = 200
     url = "/static/about"
 [[menu.main]]
+    name = "活動の記録"
+    identifier = "history"
+    weight = 200
+    url = "/static/history"
+[[menu.main]]
     name = "利用規約"
     identifier = "imprint"
     weight = 200
