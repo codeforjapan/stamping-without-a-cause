@@ -14,7 +14,12 @@ https://hackmd.io/mwazHPfjTO-3s0T5lRs1Sg?view
 - 資料集、政府WS成果の共有
 - アクションとしてできること、キャッチコピーの検討
 - miroを用いてディスカッション、まとめ
-https://miro.com/app/board/o9J_ksf1egY=/
+1. 残念な押印図鑑をつくる
+![](https://i.imgur.com/1lu4C8i.jpg)
+
+2. ハンコ仕分けの実施
+![](https://i.imgur.com/6sRhOv7.jpg)
+
 
 ### Next Action
 - 残念な押印図鑑を作るためノウハウ調査をする
