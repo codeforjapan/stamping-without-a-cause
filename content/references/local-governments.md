@@ -1,8 +1,8 @@
 ---
 title: "自治体の事例"
-date: 2020-05-25T15:50:13+09:00
-publishdate: 2020-05-25T15:50:13+09:00
-lastmod: 2020-05-23T15:50:13+09:00
+date: 2020-05-25T16:50:13+09:00
+publishdate: 2020-05-25T16:50:13+09:00
+lastmod: 2020-05-23T16:50:13+09:00
 tags: ['行政']
 comments: false
 draft: false
