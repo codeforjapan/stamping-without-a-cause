@@ -13,9 +13,8 @@ https://civictechlive0616.peatix.com/
 ### 動画
 https://youtu.be/PWpTsmZY0t0?t=3422
 ### 発表資料
-{%speakerdeck kken78/li-you-nakihanko-puroziekutonituite%}
-
-
+<script async class="speakerdeck-embed" data-id="afe2003553d74c2f93dd0907123a33c9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+https://speakerdeck.com/kken78/li-you-nakihanko-puroziekutonituite
 
 ## 残念な押印図鑑を作るためノウハウ調査（2020年6月12日）
 ### 意見交換
