@@ -1,13 +1,29 @@
 ---
 title: "活動記録"
-date: 2020-05-23T19:33:51+09:00
+date: 2020-06-25T12:53:51+09:00
 draft: false
 ---
 ## このページについて
 「[理由なきハンコ](https://stamping.code4japan.org/)」活動の記録をまとめています。
 最新のものが一番上になります。
 
-## Code for Osakaオンライン定例会（2020-05-27）
+## Civic Tech Live!#18での説明（2020年6月16日）
+### イベントページ
+https://civictechlive0616.peatix.com/
+### 動画
+https://youtu.be/PWpTsmZY0t0?t=3422
+### 発表資料
+{%speakerdeck kken78/li-you-nakihanko-puroziekutonituite%}
+
+
+
+## 残念な押印図鑑を作るためノウハウ調査（2020年6月12日）
+### 意見交換
+- ざんねんな情報共有ずかん（サイボウズ株式会社）
+- https://garoon.cybozu.co.jp/lp/zannen/
+
+
+## Code for Osakaオンライン定例会（2020年5月27日）
 ### イベントページ
 https://www.facebook.com/events/901738353630547
 ### やったこと
@@ -17,7 +33,7 @@ https://www.facebook.com/events/901738353630547
 意見として「モヤモヤがどこのカテゴライズに入るかそのものが不明確」というものもあった
 ![](https://i.imgur.com/HkvnzJl.jpg)
 
-## ソーシャルハックデー第15回（2020-05-23）
+## ソーシャルハックデー第15回（2020年5月23日）
 ### イベントページ
 https://hackmd.io/mwazHPfjTO-3s0T5lRs1Sg?view
 ### やったこと
@@ -36,12 +52,12 @@ https://hackmd.io/mwazHPfjTO-3s0T5lRs1Sg?view
 - ハンコ仕分けの実施可能性を調査する
 - プロジェクトサイトを作る
 
-## 電子契約事業関係者との意見交換会を実施（2020-05-20）
+## 電子契約事業関係者との意見交換会を実施（2020年5月20日）
 ### 主な意見
 - 取組みはスピーディーにする必要がある（国の検討も始まっており、アクション側として何ができるか）
 - まず、押印見直しの見取り図を作る必要ある（整理の精緻化というより、わかりやすいカテゴライスを示す）
 
-## ソーシャルハックデー第14回（2020-04-25）
+## ソーシャルハックデー第14回（2020年4月25日）
 ### イベント
 https://hackmd.io/jeARID_0SESEtas5-ZDLcQ
 ### やったこと
