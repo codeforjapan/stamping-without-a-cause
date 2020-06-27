@@ -8,8 +8,6 @@ draft: false
 「[理由なきハンコ](https://stamping.code4japan.org/)」活動の記録をまとめています。
 最新のものが一番上になります。
 
-<!--more-->
-
 ## ソーシャルハックデー第15回（2020年6月27日）
 ### イベントページ
 https://hackmd.io/xlWlalMHROunoNka9QC0EQ?view
