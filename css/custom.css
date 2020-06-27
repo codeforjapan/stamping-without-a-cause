@@ -2,3 +2,9 @@ pre {
   white-space: normal;
   background-color: #eee;
 }
+.mediumnavigation .navbar-brand img {
+  max-height: 50px !important;
+}
+.top-img {
+  margin:40px;
+}
