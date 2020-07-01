@@ -2,12 +2,15 @@
 title: "国の取り組み"
 date: 2020-06-25T10:50:13+09:00
 publishdate: 2020-06-25T10:50:13+09:00
-lastmod: 2020-06-25T10:50:13+09:00
+lastmod: 2020-07-01T08:50:13+09:00
 tags: ['行政']
 comments: false
 draft: false
 ---
-時系列で新しい順に並べています。
+## このページについて
+2020年新型コロナ感染症の拡大に伴い、国の取組みが進捗しています。このページではその取組みを時系列で新しい順に並べています。
+<!--more-->
+
 ### 押印についてのＱ＆Ａ（2020年6月19日）
 内閣府・法務省・経済産業省の3府省連名で文書を公表
 ```
@@ -19,8 +22,8 @@ http://www.moj.go.jp/MINJI/minji07_00095.html
 - Q&A（PDFファイル）
 http://www.moj.go.jp/content/001322410.pdf
 
-#### 「押印についてのQ&A」を読む
-[こちら](https://stamping.code4japan.org/projects/qa-about-stamping/)に詳しく解説しています
+#### 超要約「押印についてのQ&A」
+[こちら](https://stamping.code4japan.org/projects/qa-about-stamping/)に本文とその超要約を掲載しています。
 
 ### 第6回規制改革推進会議（2020年5月18日）
 https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/committee/20200518/agenda.html
