@@ -2,14 +2,28 @@
 title: "国の取り組み"
 date: 2020-06-25T10:50:13+09:00
 publishdate: 2020-06-25T10:50:13+09:00
-lastmod: 2020-07-01T08:50:13+09:00
+lastmod: 2020-07-08T23:50:13+09:00
 tags: ['行政']
 comments: false
 draft: false
 ---
-## このページについて
 2020年新型コロナ感染症の拡大に伴い、国の取組みが進捗しています。このページではその取組みを時系列で新しい順に並べています。
 <!--more-->
+
+### 第8回規制改革推進会議（2020年7月2日）
+https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/committee/20200702/agenda.html
+
+- 規制改革推進に関する答申
+    - https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/committee/20200702/200702honkaigi01.pdf
+- 書面規制、押印、対面規制の見直しについて
+    - https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/committee/20200702/200702honkaigi04.pdf
+
+#### 総理発言
+「既に取組を進めていただいている書面・押印・対面規制の見直しについては、確実かつ速やかに、結果を出すことが重要であり、北村大臣を中心に、関係閣僚は協力して取り組んでください。」
+
+#### 押印の見直しに関する該当箇所
+確認中
+
 
 ### 押印についてのＱ＆Ａ（2020年6月19日）
 内閣府・法務省・経済産業省の3府省連名で文書を公表
