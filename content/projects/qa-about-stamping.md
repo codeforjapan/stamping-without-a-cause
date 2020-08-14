@@ -1,8 +1,6 @@
 ---
 title: "超要約「押印についてのQ&A」"
 date: 2020-08-14T14:22:13+09:00
-publishdate: 2020-06-25T12:22:13+09:00
-lastmod: 2020-08-14T14:22:13+09:00
 tags: ['行政']
 comments: false
 draft: false
