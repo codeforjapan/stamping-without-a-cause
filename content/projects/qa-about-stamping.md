@@ -1,6 +1,6 @@
 ---
 title: "超要約「押印についてのQ&A」"
-date: 2020-08-14T14:22:13+09:00
+date: 2020-08-19T10:49:13+09:00
 tags: ['行政']
 comments: false
 draft: false
@@ -148,3 +148,5 @@ http://www.moj.go.jp/MINJI/index.html
     - https://sekiguchi-law.com/post-3079/
 - 「契約書にハンコ不要」と政府が見解を発表、「脱はんこ」がポストコロナのニューノーマルに？！（アドビ、2020年7月3日）
     - https://blogs.adobe.com/japan/dc_telework_survey_summary/
+- 「クラウドサービスを利用した電子契約の有効性 ～ 法務省Q&Aを踏まえて ～」（企業法務ナビ、2020年7月22日）
+    - https://www.corporate-legal.jp/%E6%B3%95%E5%8B%99%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E5%A5%91%E7%B4%84%E6%B3%95%E5%8B%99/21575
