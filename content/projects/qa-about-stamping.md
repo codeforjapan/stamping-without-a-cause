@@ -141,7 +141,7 @@ http://www.moj.go.jp/MINJI/index.html
 ## Q&Aを紹介しているホームページリンク集
 - 「契約書のハンコ不要」、政府が見解　対面作業削減狙う（日本経済新聞電子版、2020年6月19日）
     - https://www.nikkei.com/article/DGXMZO60536320Z10C20A6EAF000/
-- 「押印についてのＱ＆Ａ」を読んでみる（株式会社ITリサーチ・アート、2020年06月21日）
+- 「押印についてのＱ＆Ａ」を読んでみる（株式会社ITリサーチ・アート、2020年6月21日）
     - https://itresearchart.securesite.jp/?p=2024
 - 「押印についてのQ&A」が説く契約のニューノーマル（クラウドサイン、2020年6月22日）
     - https://www.cloudsign.jp/media/20200622-ouinqanda/
