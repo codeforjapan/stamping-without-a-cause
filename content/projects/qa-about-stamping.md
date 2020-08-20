@@ -1,6 +1,6 @@
 ---
 title: "超要約「押印についてのQ&A」"
-date: 2020-08-19T10:49:13+09:00
+date: 2020-08-20T15:12:13+09:00
 tags: ['行政']
 comments: false
 draft: false
@@ -20,6 +20,7 @@ http://www.moj.go.jp/MINJI/minji07_00095.html
 - Q&A（PDFファイル）
 http://www.moj.go.jp/content/001322410.pdf
 <!--more--> 
+ちなみに、経済産業省は、「[契約における押印の見直し](https://www.meti.go.jp/covid-19/ouin.html)」というページを設け、「押印に関するQ&A」とともに紹介している。
 
 #### 法務省民事局とは
 ```
