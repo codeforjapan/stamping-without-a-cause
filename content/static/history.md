@@ -1,6 +1,6 @@
 ---
 title: "活動記録"
-date: 2020-07-01T08:53:51+09:00
+date: 2020-08-20T13:53:51+09:00
 draft: false
 ---
 
@@ -8,9 +8,12 @@ draft: false
 「[理由なきハンコ](https://stamping.code4japan.org/)」活動の記録をまとめています。
 最新のものが一番上になります。
 
-[TOC]
+## ソーシャルハックデー第18回（2020年8月22日）
+### イベントページ
+https://hackmd.io/@codeforjapan/SHD18th
 
-## ソーシャルハックデー第15回（2020年6月27日）
+
+## ソーシャルハックデー第16回（2020年6月27日）
 ### イベントページ
 https://hackmd.io/xlWlalMHROunoNka9QC0EQ?view
 ### やったこと
