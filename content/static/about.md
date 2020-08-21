@@ -13,7 +13,7 @@ draft: false
 - 決して「反抗するぜ！」というギラギラしたものではなくて、「理由のないハンコはやめていこうね」ということを、お伝えするためにネーミングとして採用したものです。
 
 ### プロジェクトに参加したい場合はどうすればいいの？
-- Code for Japanの[Slack](https://join.slack.com/t/cfj/shared_invite/zt-473qa2x1-Fc_Uo76uPPRm2j~JBWRx1w)の「#理由なきハンコ」チャンネルに参加ください。
+- Code for Japanの[Slack](https://join.slack.com/t/cfj/shared_invite/zt-473qa2x1-Fc_Uo76uPPRm2j~JBWRx1w)の「#proj-理由なきハンコ」チャンネルに参加ください。
 - この他、Code for Japanが定期的に開催している1dayハッカソン（開発イベント）である「[ソーシャルハックデー](https://www.code4japan.org/activity/socialhackday)」でも活動しています。
 
 ![](https://i.imgur.com/iurBKuS.jpg)
