@@ -1,6 +1,6 @@
 ---
 title: "活動記録"
-date: 2020-08-20T13:53:51+09:00
+date: 2020-08-22T11:15:51+09:00
 draft: false
 ---
 
@@ -30,7 +30,7 @@ https://civictechlive0616.peatix.com/
 https://youtu.be/PWpTsmZY0t0?t=3422
 ### 発表資料
 [![thumbnail](https://files.speakerdeck.com/presentations/afe2003553d74c2f93dd0907123a33c9/slide_9.jpg?15722966)](https://speakerdeck.com/kken78/li-you-nakihanko-puroziekutonituite)
-
+{%speakerdeck kken78/li-you-nakihanko-puroziekutonituite %}
 
 ## 残念な押印図鑑を作るためノウハウ調査（2020年6月12日）
 ### 意見交換
