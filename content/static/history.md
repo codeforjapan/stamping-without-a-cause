@@ -1,6 +1,6 @@
 ---
 title: "活動記録"
-date: 2020-08-22T11:15:51+09:00
+date: 2020-08-22T17:19:51+09:00
 draft: false
 ---
 
@@ -11,6 +11,11 @@ draft: false
 ## ソーシャルハックデー第18回（2020年8月22日）
 ### イベントページ
 https://hackmd.io/@codeforjapan/SHD18th
+### やったこと
+1. 「電子契約サービスに関するQ＆A」の[超要約](https://stamping.code4japan.org/projects/qa-about-electronic-contract/)を作成
+2. サイトを 「[＃取引先にもテレワークを](https://www.for-partners-remote.work/)」へ登録
+3. [押印見直し事例収集](https://stamping.code4japan.org/projects/form/)の修正
+![](https://i.imgur.com/QexBbSW.png)
 
 
 ## ソーシャルハックデー第16回（2020年6月27日）
