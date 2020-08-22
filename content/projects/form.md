@@ -1,8 +1,6 @@
 ---
 title: "押印見直し事例収集"
-date: 2020-06-25T13:22:13+09:00
-publishdate: 2020-06-25T13:22:13+09:00
-lastmod: 2020-06-25T13:22:13+09:00
+date: 2020-08-22T16:52:13+09:00
 tags: ['事例']
 comments: false
 draft: false
@@ -12,4 +10,4 @@ draft: false
 一方で、自分や自社が押印をなくそうとしても、取引先や行政機関により押印を求められる機会が多いので、社会的ムーブメントとして押印の見直しを進めていく必要があります。そのために、みなさんの行っている事例を収集しています。ぜひ、ご協力をお願いします。（匿名も可能）
 収集した事例は、Code for Japanの理由なきハンコPJとして取りまとめてまいります。
 ### 事例収集フォーム
-https://forms.gle/5hCFRtMzFTzafdLh7
+[こちらから入力をお願いします。](https://docs.google.com/forms/d/1AHMKNIlII-Wf02rSu802ZbN-UW3J48QSSsI_PazbLyA/)
