@@ -1,12 +1,21 @@
 ---
 title: "活動記録"
-date: 2020-09-18T13:25:51+09:00
+date: 2020-11-28T13:25:51+09:00
 draft: false
 ---
 
 ## このページについて
 「[理由なきハンコ](https://stamping.code4japan.org/)」活動の記録をまとめています。
 最新のものが一番上になります。
+
+## ソーシャルハックデー第21回（2020年11月28日）
+### イベントページ
+https://hackmd.io/@codeforjapan/SHD21st
+### やったこと
+1. 「電子署名法3条に関するQ&A」の[超要約](https://stamping.code4japan.org/projects/qa-about-electronic-contract2/)
+2. 押印の見直し方針ダッシュボードの作成（ページ作成中）
+![](https://i.imgur.com/prqHJ6K.png)
+
 
 ## GovTech Conference Japan #04 で対談を行いました（2020年9月15日）
 https://govtechconfdx04.glideapp.io/
