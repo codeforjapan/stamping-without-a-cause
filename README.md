@@ -1,6 +1,6 @@
 # 理由なきハンコ プロジェクトページ
 
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 ### 理由なきハンコプロジェクトとは？
 - 2020年新型コロナウィルス感染症拡大に伴い、各種手続きや働き方の見直しが必要であることが鮮明になりました。その際、不要不急な押印をなくすということも見直すべきものの１つとして取り上げられました。
